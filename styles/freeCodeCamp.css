@@ -1,0 +1,24 @@
+p {
+  font-family: Arial;
+}
+.head {
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.status {
+  color: gray;
+}
+
+.body {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.conclusion {
+  font-size: 14px;
+  font-weight: bold;
+}
+.new-span {
+  color: rgb(127, 181, 252);
+}
